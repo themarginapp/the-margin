@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.themarginapp/the-margin",
+  "title": "The Margin",
+  "description": "Notes, boards, habits, money and family life in one place your AI can read and act on.",
+  "version": "1.0.0",
+  "websiteUrl": "https://themarginapp.com",
+  "repository": {
+    "url": "https://github.com/themarginapp/the-margin",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.themarginapp.com/mcp"
+    }
+  ]
+}

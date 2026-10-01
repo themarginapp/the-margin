@@ -1,0 +1,44 @@
+name: Bug report
+description: Something is broken or behaves differently from what you expected.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Please leave out personal details, tokens and screenshots of private data.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: And what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open ...\n2. Tap ...\n3. See ..."
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where
+      options:
+        - Web, in a desktop browser
+        - Web, on a phone or installed to the home screen
+        - iPhone or Android app
+        - A connected assistant (Claude, ChatGPT, Grok, Cursor or another MCP client)
+        - Margin Intelligence
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Browser, device or client
+      placeholder: Safari on iPhone 15, Chrome 140 on Windows, Claude desktop
+  - type: checkboxes
+    id: offline
+    attributes:
+      label: Connection
+      options:
+        - label: I was offline or on a weak connection when it happened
