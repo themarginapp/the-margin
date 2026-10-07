@@ -18,7 +18,7 @@
 
 <p align="center">
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/themarginapp/the-margin)](https://m8ven.ai/mcp/themarginapp/the-margin?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/themarginapp-the-margin-rnq6nd?v=495ace58c0c31ada9c2ff7c872fafaf0)](https://m8ven.ai/mcp/themarginapp-the-margin-rnq6nd?s=readme)
 
 </p>
 
