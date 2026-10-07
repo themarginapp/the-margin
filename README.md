@@ -17,6 +17,12 @@
 </p>
 
 <p align="center">
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/themarginapp/the-margin)](https://m8ven.ai/mcp/themarginapp/the-margin?s=readme)
+
+</p>
+
+<p align="center">
   <img src="assets/daybook.webp" width="820" alt="The Margin's daybook: today's tasks, notes and plans on one page" />
 </p>
 
