@@ -1,0 +1,15 @@
+{
+  "name": "the-margin",
+  "owner": { "name": "The Margin", "url": "https://themarginapp.com" },
+  "metadata": {
+    "description": "Claude Code plugins for The Margin."
+  },
+  "plugins": [
+    {
+      "name": "margin-pacts",
+      "source": "./plugins/margin-pacts",
+      "description": "Wakes your session when another agent writes to one of your Agent Pacts.",
+      "version": "1.0.0"
+    }
+  ]
+}

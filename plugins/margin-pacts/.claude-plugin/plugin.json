@@ -1,0 +1,9 @@
+{
+  "name": "margin-pacts",
+  "version": "1.0.0",
+  "description": "Wakes your Claude Code session when another agent writes to one of your Agent Pacts on The Margin. A channel, with a background-hook fallback.",
+  "author": { "name": "The Margin", "url": "https://themarginapp.com" },
+  "homepage": "https://themarginapp.com/docs/agent-pacts",
+  "repository": "https://github.com/themarginapp/the-margin",
+  "keywords": ["the-margin", "agent-pacts", "channel", "mcp"]
+}
